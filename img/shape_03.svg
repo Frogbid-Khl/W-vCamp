@@ -1,0 +1,32 @@
+<svg width="218" height="231" viewBox="0 0 218 231" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="218" height="231">
+<rect y="0.271973" width="218" height="230" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M-2.5 117.772L25.5 122.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M-2.5 168.772L25.5 163.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M2 215.272L26 207.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M43.5 214.772L71.5 209.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M86.5 209.772L114.5 214.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M43.5 165.474L71.5 167.07" stroke="#FF1F55" stroke-width="2"/>
+<path d="M2 26.272L26 34.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M44.5 20.772L68.5 33.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M89 19.272L113 35.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M133 17.272L154 38.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M181.5 16.772L196.5 40.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M-2 70.272L26 78.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M44 72.272L68 80.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M89.5 68.772L113.5 83.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M133 68.272L157 84.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M181 62.272L197 86.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M43.5 117.772L71.5 122.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M90 118.272L114 126.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M134.5 114.772L158.5 129.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M180.5 109.772L196.5 130.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M86 161.272L114 169.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M132.5 159.772L156.5 174.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M180 155.272L201 176.272" stroke="#FF1F55" stroke-width="2"/>
+<path d="M133.5 204.772L157.5 217.772" stroke="#FF1F55" stroke-width="2"/>
+<path d="M180.5 198.772L196.5 219.772" stroke="#FF1F55" stroke-width="2"/>
+</g>
+</svg>
